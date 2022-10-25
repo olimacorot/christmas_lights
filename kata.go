@@ -1,7 +1,7 @@
 package main
 
 import (
-	model "practicing/christmas_lights/models"
+	model "github.com/olimacorot/christmas_lights/models"
 )
 
 func doActionBetween(grid model.Grid, pointOne, pointTwo model.Point, instruction string) map[model.Point]model.Light {

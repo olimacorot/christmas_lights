@@ -1,7 +1,7 @@
 package main
 
 import (
-	model "practicing/christmas_lights/models"
+	model "github.com/olimacorot/christmas_lights/models"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

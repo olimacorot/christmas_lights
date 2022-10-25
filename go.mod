@@ -1,4 +1,4 @@
-module practicing/christmas_lights
+module github.com/olimacorot/christmas_lights
 
 go 1.19
 

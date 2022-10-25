@@ -1,7 +1,7 @@
 package main_with_interface
 
 import (
-	model "practicing/christmas_lights/models"
+	model "github.com/olimacorot/christmas_lights/models"
 )
 
 type LightAction interface {
